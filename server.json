@@ -1,0 +1,15 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.rumoro/mcp",
+  "title": "Rumoro",
+  "description": "Track what people say about your product on Reddit, X, Hacker News, GitHub and more",
+  "version": "1.0.0",
+  "websiteUrl": "https://rumoro.dev",
+  "icons": [
+    { "src": "https://rumoro.dev/icon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] },
+    { "src": "https://rumoro.dev/apple-icon.png", "mimeType": "image/png", "sizes": ["180x180"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://mcp.rumoro.dev/mcp" }
+  ]
+}
