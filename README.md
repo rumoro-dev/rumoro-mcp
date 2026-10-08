@@ -92,3 +92,7 @@ Prepaid, with no subscription. $5 per keyword per month plus $0.008 per matched 
 - TypeScript SDK: [`@rumoro-dev/sdk`](https://www.npmjs.com/package/@rumoro-dev/sdk)
 - Python SDK: [`rumoro`](https://pypi.org/project/rumoro/)
 - CLI: [`@rumoro-dev/cli`](https://www.npmjs.com/package/@rumoro-dev/cli)
+
+## Support
+
+If the server won't connect or a tool behaves unexpectedly, open an issue in this repository or email markus@rumoro.dev.
