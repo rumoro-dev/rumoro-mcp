@@ -1,5 +1,7 @@
 # Rumoro MCP server
 
+[![MCP Badge](https://lobehub.com/badge/mcp/rumoro-dev-rumoro-mcp)](https://lobehub.com/mcp/rumoro-dev-rumoro-mcp)
+
 [Rumoro](https://rumoro.dev) tracks what people say about your product, your competitors and your topics on Reddit, X, Hacker News, GitHub, YouTube, LinkedIn, Bluesky, Stack Overflow, DEV, TikTok, Instagram and news sites. Each mention is scored for relevance to your company.
 
 The MCP server gives Claude, Cursor, Codex and any other MCP client access to your Rumoro workspace. Your agent can search and triage mentions, manage keywords and alerts, and read analytics, with 55 tools in total.
@@ -98,3 +100,7 @@ Prepaid, with no subscription. $5 per keyword per month plus $0.008 per matched 
 ## Support
 
 If the server won't connect or a tool behaves unexpectedly, open an issue in this repository or email markus@rumoro.dev.
+
+## License
+
+The setup guide and registry entry in this repository are released under the [MIT License](LICENSE). The Rumoro service itself is covered by its [terms](https://rumoro.dev/terms).
