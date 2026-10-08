@@ -7,6 +7,7 @@ The MCP server gives Claude, Cursor, Codex and any other MCP client access to yo
 This repository holds the setup instructions and the server's [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=dev.rumoro) entry. The server itself is hosted by Rumoro, so there is nothing to install or run.
 
 - Endpoint: `https://mcp.rumoro.dev/mcp` (streamable HTTP)
+- Docs: [docs.rumoro.dev/mcp](https://docs.rumoro.dev/mcp)
 - Sign-in: OAuth in the browser, or an API key sent as a Bearer header
 - Registry name: `dev.rumoro/mcp`
 
@@ -88,6 +89,7 @@ Prepaid, with no subscription. $5 per keyword per month plus $0.008 per matched 
 
 ## More
 
+- Full documentation: [docs.rumoro.dev](https://docs.rumoro.dev)
 - Setup guides for [Claude](https://rumoro.dev/claude), [Cursor](https://rumoro.dev/cursor) and [Codex](https://rumoro.dev/codex)
 - TypeScript SDK: [`@rumoro-dev/sdk`](https://www.npmjs.com/package/@rumoro-dev/sdk)
 - Python SDK: [`rumoro`](https://pypi.org/project/rumoro/)
