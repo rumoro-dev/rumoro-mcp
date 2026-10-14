@@ -93,6 +93,7 @@ Prepaid, with no subscription. $5 per keyword per month plus $0.008 per matched 
 
 - Full documentation: [docs.rumoro.dev](https://docs.rumoro.dev)
 - Setup guides for [Claude](https://rumoro.dev/claude), [Cursor](https://rumoro.dev/cursor) and [Codex](https://rumoro.dev/codex)
+- One platform at a time: [Reddit MCP server](https://rumoro.dev/reddit-mcp), [X MCP server](https://rumoro.dev/x-mcp), [LinkedIn MCP server](https://rumoro.dev/linkedin-mcp) and [YouTube MCP server](https://rumoro.dev/youtube-mcp)
 - TypeScript SDK: [`@rumoro-dev/sdk`](https://www.npmjs.com/package/@rumoro-dev/sdk)
 - Python SDK: [`rumoro`](https://pypi.org/project/rumoro/)
 - CLI: [`@rumoro-dev/cli`](https://www.npmjs.com/package/@rumoro-dev/cli)
